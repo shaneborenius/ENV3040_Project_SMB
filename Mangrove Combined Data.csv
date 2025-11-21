@@ -1,0 +1,33 @@
+﻿Region,Site,N of plots,Date,Vegetation,Spp dominance,Max soil depth (cm),Soil pH,Soil Salinity ,Soil Eh,Hidrogeomorpholigy,Latitude,Longitude,Total ECS
+Bragança,Barreto,6,17-Feb,Mangrove,"Rhizophora mangle, Avicennia germinans, Laguncularia racemosa",300,6.2,17,,Estuarine,-0.74517,-48.011132,501.1245959
+,Boca Grande,6,17-Feb,Mangrove,,300,6.2,26,,Estuarine,-0.869444,-46.695556,522.8205504
+,Caetano,6,17-Feb,Mangrove,,300,6.4,17,,Estuarine,-0.74915,-48.013733,746.2424118
+,Caete,6,17-Feb,Mangrove,,300,6.2,20,,Estuarine,-0.981,-46.722983,520.680424
+,Furo Chato,6,17-Feb,Mangrove,,200,6.2,21,,Estuarine,-0.881217,-46.6523,361.620578
+,Furo Grande,6,17-Feb,Mangrove,,300,6.5,18,,Estuarine,-0.841333,-46.6386,457.8171248
+,Mangue Sul,6,17-Feb,Mangrove,,300,6.5,21,,Estuarine,-0.918033,-46.679317,542.9838249
+Maracanã,Maruipe,6,17-Feb,Mangrove,,200,6.5,18,,Estuarine,-0.654933,-47.394233,408.9006047
+,Salinas,6,17-Feb,Mangrove,,270,6.5,18,,Estuarine,-0.632533,-47.3674,536.1046945
+Curuça,Abade C,6,19-Jan,Mangrove,,260,7,20.8,-245,Estuarine,-0.686194,-47.858667,524.926621
+,Abade D,6,19-Jan,Mangrove,,190,7.3,13.5,-150,Estuarine,-0.685167,-47.853944,356.493091
+,Abade E,6,19-Jan,Mangrove,,170,6,12.5,-160,Estuarine,-0.696139,-47.8575,387.6891107
+,Ilha Ipomonga,6,19-Jan,Mangrove,,300,5.8,12.2,12.7,Estuarine,-0.6565,-47.862778,516.8537413
+,Muraja G,6,19-Jan,Mangrove,,300,6.9,17.2,-78.8,Estuarine,-0.756778,-47.955389,410.5557444
+,Ramos K,6,19-Jan,Mangrove,,300,5.2,23.3,91.5,Estuarine,-0.736444,-47.998389,580.911516
+,Abade L,6,19-Jan,Mangrove,,200,5.9,26.3,-69.2,Estuarine,-0.736437,-47.914759,435.6034295
+Bailique,Bailique 1,6,22-Apr,Mangrove,Avicennia sp.,300,6.2,0.7,,Delta/Open coast,0.870944,-50.014583,180.923
+,Bailique 2,6,22-Apr,Mangrove,"Pterocarpus sp., Rhizophora sp., Mauritia flexuosa, Avicennia sp.",300,6,0,,Delta,0.907306,-50.032056,902.639
+,Terra Grande 3,6,22-Apr,Mangrove,"Pterocarpus sp., Mauritia flexuosa, Avicennia sp., Bamboos",300,4.6,0,,Delta,1.063583,-49.957889,277.118
+Araguari,Afuá Congo,6,22-Apr,Mangrove,"Rhizophora sp., Avicennia sp., Aninga",100,4.6,0.5,,Delta,1.15375,-49.922639,254.066
+,Araguari 5,6,22-Apr,Mangrove,"Rhizophora sp., Avicennia sp., Aninga",90,5.6,6.5,,Delta/Open coast,1.166694,-49.891972,215.666
+,Araguari 6,6,22-Apr,Mangrove,"Pterocarpus sp., Avicennia sp., Rhizophora sp.",100,6.7,4.8,,Delta/Open coast,1.155,-49.894444,255.824
+Sucuriju,Sucuriju 7,6,22-Apr,Mangrove,"Rhizophora sp., Avicennia sp. (undersotry ferns)",300,5.6,9.8,,Estuarine,1.681222,-49.934472,437.681
+,Sucuriju 8,6,22-Apr,Mangrove,"Rhizophora sp., Avicennia sp. (undersotry ferns)",300,5.1,1,,Estuarine,1.684972,-49.962806,538.629
+,Sucuriju 9,6,22-Apr,Mangrove,"Rhizophora sp., Avicennia sp., Bamboo, (undersotry ferns)",300,5,0,,Estuarine,1.670306,-49.964417,446.293
+,Sucuriju 11,6,22-Apr,Mangrove,"Rhizophora sp., Avicennia sp., Aninga",300,6.5,0,,Delta/Open coast,1.690389,-49.925028,855.337
+Bailique,Varzea Forest,6,22-Apr,Varzea forest,"Aninga, Pterocarpus sp., Mauritia flexuosa, Bamboos",300,5.8,0,,Delta,0.886242,-50.084667,604.38955
+Curuça,Pasture,6,19-Jan,Pasture,,250,5.4,18.3,56.7,Estuarine,-0.73705,-47.915399,77.97402602
+,Shrimp A,6,19-Jan,Shrimp pond,,150,6.3,36.7,51.3,Estuarine,-0.686634,-47.857895,261.6149426
+,Shrimp B,6,19-Jan,Shrimp pond,,170,6.8,27.3,-65,Estuarine,-0.68446,-47.855493,96.42369887
+,Shrimp H,6,19-Jan,Shrimp pond,,180,5.9,13.8,94.2,Estuarine,-0.6961,-47.858358,106.4821134
+,Shrimp I,6,19-Jan,Shrimp pond,,150,5.9,30.7,60.1,Estuarine,-0.687262,-47.855812,70.74115319
